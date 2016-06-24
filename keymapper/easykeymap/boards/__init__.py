@@ -47,5 +47,6 @@ __all__ = [
 'tau',
 'techcard',
 'threekey',
-'zeta'
+'zeta',
+'kc60'
 ]
